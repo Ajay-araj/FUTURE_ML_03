@@ -1,4 +1,4 @@
-# FUTURE_ML_03
+# Resume / Candidate Screening System
 #### Introduction
 
 This project implements an NLP-based Resume Screening System that automates the process of analyzing and ranking resumes based on a given job description. The system extracts relevant skills, calculates similarity scores, ranks candidates by job relevance, and identifies missing skills to assist recruiters in making data-driven hiring decisions.
